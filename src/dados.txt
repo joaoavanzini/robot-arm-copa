@@ -1,0 +1,31 @@
+posição 1:
+
+	pino2: 150, vel = 100
+	pino3: esquece essa merda - RISCO DE MORTE
+	pino4: 180, vel = 40
+	pino5:  10, vel = 100
+	pino6: esquece essa merda - RISCO DE MORTE
+
+posição 2:
+
+	pino2: 100, vel = 100
+	pino3: esquece essa merda - RISCO DE MORTE
+	pino4: 180, vel = 40
+	pino5: 10, vel = 100
+	pino6: esquece essa merda - RISCO DE MORTE
+
+posição 3:
+
+	pino2: 100, vel = 100
+	pino3: esquece essa merda - RISCO DE MORTE
+	pino4: 45, vel = 40
+	pino5:  100, vel = 100
+	pino6: esquece essa merda - RISCO DE MORTE
+
+posição 4:
+
+	pino2: 150, vel = 100	
+	pino3: esquece essa merda - RISCO DE MORTE
+	pino4: 45, vel = 40
+	pino5: 100, vel = 100
+	pino6: esquece essa merda - RISCO DE MORTE
